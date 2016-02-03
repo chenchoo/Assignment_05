@@ -39,8 +39,10 @@ $('document').ready(function(){
 
 
     //HOW TO STOP JUMPING UP THE PAGE WHEN LEARN MORE IS CLICKED?
-
-
+      //PREVENT DEFAULT
+    //CSS display inline block???
+      //FIX MARGINS
+    //Select the appropriate DOM elements with CSS selectors upon a user's click using the $.click() handler?
 
 
 

@@ -228,6 +228,10 @@ footer p {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+.container{
 
+}
 
-
+#sidebar{
+  float: right;
+}
